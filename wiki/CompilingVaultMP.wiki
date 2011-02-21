@@ -25,7 +25,7 @@ Use the .cbp files to open the projects. Vault-Tec Multiplayer Mod consists of f
 
  # _vaultmp.cbp_
  # _vaultserver/vaultserver.cbp_
- # _vaultmaster/vaultmaster.cb_
+ # _vaultmaster/vaultmaster.cbp_
  # _vaultmpdll/vaultmpDLL.cbp_
  # _vaultgui/vaultgui.cbp_
 
