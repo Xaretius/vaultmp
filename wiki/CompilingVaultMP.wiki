@@ -1,4 +1,4 @@
-#summary Instructions on how to compile Vault-Tec Multiplayer Mod.
+#summary Instructions on how to compile Vault-Tec Multiplayer Mod
 
 = Introduction =
 
@@ -17,11 +17,7 @@ If you don't already have MinGW installed you may want to choose the package whi
 
  * *Upgrading from MinGW 3 to version 4*
 
-In case you followed the above step you still need to upgrade your MinGW to the latest version. To do this, download the following packages:
-
-
-
-Extract all the contents directly into your MinGW folder, which by default is: Program Files/CodeBlocks/MinGW
+In case you followed the above step you still need to upgrade your MinGW to the latest version. To do this, download the package "MinGWUpgrade4.zip" from the downloads section. Read the description.
 
  * *Compiling vaultmp*
 
