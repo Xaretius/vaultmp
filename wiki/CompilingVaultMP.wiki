@@ -10,12 +10,12 @@ You may want to use SVN software like TortoiseSVN (http://tortoisesvn.net/downlo
 
 To compile vaultmp you will need *MinGW compiler version 4.5* or later. We recommend installing Code::Blocks IDE because there are already project files ready to use.
 
-# Preparing Code::Blocks and MinGW
+ * *Preparing Code::Blocks and MinGW*
 
 Code::Blocks can be found here: http://www.codeblocks.org/downloads/26
 If you don't already have MinGW installed you may want to choose the package which got MinGW bundled.
 
-# Upgrading from MinGW 3 to version 4
+ * *Upgrading from MinGW 3 to version 4*
 
 In case you followed the above step you still need to upgrade your MinGW to the latest version. To do this, download the following packages:
 
@@ -32,7 +32,7 @@ http://sourceforge.net/projects/mingw/files/MinGW/libiconv/libiconv-1.13.1-1/lib
 
 Extract all the contents directly into your MinGW folder, which by default is: Program Files/CodeBlocks/MinGW
 
-# Compiling vaultmp
+ * *Compiling vaultmp*
 
 Use the .cbp files to open the projects. Vault-Tec Multiplayer Mod consists of five parts:
 
