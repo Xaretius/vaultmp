@@ -23,10 +23,10 @@ In case you followed the above step you still need to upgrade your MinGW to the 
 
 Use the .cbp files to open the projects. Vault-Tec Multiplayer Mod consists of five parts:
 
-vaultmp.cbp
-vaultserver/vaultserver.cbp
-vaultmaster/vaultmaster.cbp
-vaultmpdll/vaultmpDLL.cbp
-vaultgui/vaultgui.cbp
+ # _vaultmp.cbp_
+ # _vaultserver/vaultserver.cbp_
+ # _vaultmaster/vaultmaster.cb_
+ # _vaultmpdll/vaultmpDLL.cbp_
+ # _vaultgui/vaultgui.cbp_
 
 In Code::Blocks, choose "Build" to compile a project.
