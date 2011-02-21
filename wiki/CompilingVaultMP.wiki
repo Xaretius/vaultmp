@@ -13,7 +13,7 @@ To compile vaultmp you will need *MinGW compiler version 4.5* or later. We recom
  * *Preparing Code::Blocks and MinGW*
 
 Code::Blocks can be found here: http://www.codeblocks.org/downloads/26
-If you don't already have MinGW installed you may want to choose the package which got MinGW bundled.
+If you don't have MinGW installed you may want to choose the package which got MinGW bundled.
 
  * *Upgrading from MinGW 3 to version 4*
 
